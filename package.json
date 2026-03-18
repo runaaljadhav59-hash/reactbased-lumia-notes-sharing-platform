@@ -1,0 +1,7 @@
+{
+  "name": "reactbased-lumia-notes-sharing-platform-app",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix lumina-app ci && npm --prefix lumina-app run build"
+  }
+}
